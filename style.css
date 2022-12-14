@@ -1,0 +1,161 @@
+.quadrato {
+	width:900px;
+	height:540px;
+	background:black;
+  opacity: 0.3;
+  position: absolute;
+	left: 235px;
+	right: 835px;
+	bottom: 60px;
+	border-radius: 10px 10px 10px 10px;
+	}
+
+.Logo {
+	position: absolute;
+	left: 630px;
+	bottom: 500px;
+}
+
+.KB {
+	text-align: center;
+	position: absolute;
+	left: 540px;
+	bottom: 455px;
+	color: #0dff00;
+	font-family: Nunito;
+}
+
+.BarraVerde {
+	position: absolute;
+	left: 287px;
+	bottom:436px;
+}
+
+.submit {
+	position: absolute;
+	left: 535px;
+	bottom:440px;
+}
+
+.checkbox1 {
+position: absolute;
+left: 287px;
+bottom:395px
+}
+
+.MonopattinoGino{
+position: absolute;
+left: 305px;
+bottom:372px;
+font-family:Nunito;
+color: #F9f7f7;
+}
+
+.StaminaGold {
+	position: absolute;
+	left: 287px;
+	bottom:345px;
+
+}
+
+.checkbox2{
+	position: absolute;
+	left: 288px;
+	bottom:300px
+
+}
+.MonopattinoMike24{
+	position: absolute;
+	left: 305px;
+	bottom:277px;
+	font-family:Nunito;
+	color: #F9f7f7;
+}
+
+.StaminaGreen {
+position: absolute;
+left: 287px;
+bottom:247px;
+}
+
+.checkbox3 {
+	position: absolute;
+	left: 287px;
+	bottom:190px
+}
+
+.MonopattinoFede154 {
+	position: absolute;
+	left: 305px;
+	bottom:167px;
+	font-family:Nunito;
+	color: #F9f7f7;
+}
+
+.StaminaFrenchRose {
+position: absolute;
+left: -18px;
+bottom:-27px;
+}
+
+.Via1-carica1 {
+	position: absolute;
+	left: 288px;
+	bottom:368px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.Carica1 {
+	position: absolute;
+	left: 288px;
+	bottom:349px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.Via2-carica2 {
+	position: absolute;
+	left: 288px;
+	bottom:270px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.Carica2 {
+	position: absolute;
+	left: 288px;
+	bottom:250px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.Via3-carica3 {
+	position: absolute;
+	left: 288px;
+	bottom: 163px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.Carica3 {
+	position: absolute;
+	left: 288px;
+	bottom:142px;
+	font-family:Nunito;
+	font-size: 10px;
+	color: #F9f7f7
+}
+
+.sfondo {
+	position: relative;
+	background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
